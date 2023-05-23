@@ -1,0 +1,1 @@
+// load data notes saved in array obj

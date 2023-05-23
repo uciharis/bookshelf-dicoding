@@ -1,0 +1,26 @@
+{
+  "name": "bookshelf-dicoding",
+  "version": "1.0.0",
+  "description": "belajar-bookshelf-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "start-dev": "nodemon ./src/server.js",
+    "lint": "eslint ./"
+  },
+  "keywords": [
+    "dicoding",
+    "projek",
+    "bookshelf",
+    "susah"
+  ],
+  "author": "haris",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
