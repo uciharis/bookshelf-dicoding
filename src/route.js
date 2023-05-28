@@ -7,7 +7,7 @@
 const routes = [
    { 
     method : 'POST',
-    path: '/notes',
+    path: '/books',
     handler : ()=>{},
 },
 ];

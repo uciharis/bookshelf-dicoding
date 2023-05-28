@@ -1,10 +1,10 @@
-// load data notes saved in array obj
+// load data books saved in array obj
 // -------------------
 
 
 
-const notes = [];
-module.exports = notes;
+const books = [];
+module.exports = books;
 
 // objek notes yang harus disimpan adalah :
 /*
